@@ -6,10 +6,37 @@
 
 ###
 
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">
+  - 🔭 I’m working as Full Stack Developer <br>
+  - 📚 I'm currently learning AWS  <img src="https://skillicons.dev/icons?i=aws" height="15" alt="amazonwebservices logo"  />
+  
+  <br>
+  - ⚡ In my free time I play games
+</p>
+
+
 <br clear="both">
 
 <div align="center">
   <img height="500" src="https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966"  />
+</div>
+
+###
+
+###
+
+<h3 align="left">🔥   My States :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Md-Kaish-Alam&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
@@ -19,7 +46,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Md-Kaish-Alam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+
 ###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
 
 <br clear="both">
 
@@ -135,8 +168,5 @@
   <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vuejs logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/Md-Kaish-Alam/Md-Kaish-Alam/output/snake.svg" alt="Snake animation" />
 
-###
